@@ -1,0 +1,14 @@
+{
+  "name": "project2_customer-maintenance",
+  "version": "0.0.0",
+  "description": "Project2_CustomerMaintenance",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mssql": "^4.3.0"
+  }
+}

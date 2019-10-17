@@ -1,0 +1,71 @@
+body{
+    background-color: #000;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+header{
+    margin-bottom: 1em;
+    background-color: #000;
+    border-bottom: 2px solid #ddd;
+}
+
+footer{
+    margin-left: 1%
+}
+
+h1{
+    margin-bottom: 0.25em;
+    color: #eee;
+    font-size: 2em;
+}
+
+.highlight{
+    color: orangered;
+}
+
+#sectCust{
+    width: 50%;
+    max-width: 500px;
+    padding: 1em;
+    margin-left: 1%;
+    background-color: #555;
+    border: 2px double #fff;
+}
+    #sectCust label{
+        width: 40%;
+        float: left;
+    }
+
+    #sectCust input[type="text"]{
+        width: 59%;
+        margin-bottom: 1em;
+        float: left;
+    }
+
+    #sectCust input[type="text"]:last-of-type{
+        margin-bottom: 2em;
+    }
+
+#divBtn{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+    #divBtn input[type="button"]{
+        padding: 0.5em 1em;
+        border-radius: 0.5em;
+    }
+
+#divMsg{
+    width: 100%;
+    display: none;
+    clear: both;
+    color: darkorange;
+}
+
+#txtCNum{
+    background-color: #222;
+    color: #fff;
+}

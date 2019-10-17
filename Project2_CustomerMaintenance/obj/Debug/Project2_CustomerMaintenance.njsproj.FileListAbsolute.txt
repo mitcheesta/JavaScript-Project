@@ -1,0 +1,3 @@
+D:\nodejs Code\Project2\Project2_CustomerMaintenance\Project2_CustomerMaintenance\obj\Debug\Project2_CustomerMaintenance.njsprojAssemblyReference.cache
+D:\nodejs Code\Project2\Project2_CustomerMaintenance\Project2_CustomerMaintenance\obj\Debug\Project2_CustomerMaintenance.njsproj.CoreCompileInputs.cache
+D:\nodejs Code\Project2\Project2_CustomerMaintenance\Project2_CustomerMaintenance\bin\Microsoft.NodejsTools.WebRole.dll
